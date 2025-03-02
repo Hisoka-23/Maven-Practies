@@ -38,7 +38,7 @@
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-params</artifactId>
-      <scope>System</scope>
+      <scope>Test</scope>
     </dependency>
   </dependencies>
 
